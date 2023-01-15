@@ -1,0 +1,166 @@
+rank,player,position,teams,total_points,total_games,points_per_game,field_goals,three_points_goals,free_shots,born,active_player,hall_of_fame,country
+1,Kareem Abdul-Jabbar,C,"Milwaukee Bucks (1969–1975)
+Los Angeles Lakers (1975–1989)",38387,1560,24.6,15837,1,6712,1947,0,1995,USA
+2,LeBron James,SF,"Cleveland Cavaliers (2003–2010, 2014–2018)
+Miami Heat (2010–2014)
+Los Angeles Lakers (2018–present)",37965,1397,27.2,13896,2201,7972,1984,1,,USA
+3,Karl Malone,PF,"Utah Jazz (1985–2003)
+Los Angeles Lakers (2003–2004)",36928,1476,25,13528,85,9787,1963,0,2010,USA
+4,Kobe Bryant,SG,Los Angeles Lakers (1996–2016),33643,1346,25,11719,1827,8378,1978-2020,0,2020,USA
+5,Michael Jordan,SG,"Chicago Bulls (1984–1993, 1995–1998)
+Washington Wizards (2001–2003)",32292,1072,30.1,12192,581,7327,1963,0,2009,USA
+6,Dirk Nowitzki,PF/C,Dallas Mavericks (1998–2019),31560,1522,20.7,11169,1982,7240,1978,0,,DEU
+7,Wilt Chamberlain,C,"Philadelphia/San Francisco Warriors (1959–1965)
+Philadelphia 76ers (1965–1968)
+Los Angeles Lakers (1968–1973)",31419,1045,30.1,12681,0,6057,1936-1999,0,1979,USA
+8,Shaquille O'Neal,C,"Orlando Magic (1992–1996)
+Los Angeles Lakers (1996–2004)
+Miami Heat (2004–2008)
+Phoenix Suns (2008–2009)
+Cleveland Cavaliers (2009–2010)
+Boston Celtics (2010–2011)",28596,1207,23.7,11330,1,5935,1972,0,2016,USA
+9,Carmelo Anthony,SF,"Denver Nuggets (2003–2011)
+New York Knicks (2011–2017)
+Oklahoma City Thunder (2017–2018)
+Houston Rockets (2018)
+Portland Trail Blazers (2019–2021)
+Los Angeles Lakers (2021–2022)",28289,1260,22.5,10119,1731,6320,1984,1,,USA
+10,Moses Malone,C,"Buffalo Braves (1976)
+Houston Rockets (1976–1982)
+Philadelphia 76ers (1982–1986, 1993–1994)
+Washington Bullets (1986–1988)
+Atlanta Hawks (1988–1991)
+Milwaukee Bucks (1991–1993)
+San Antonio Spurs (1994–1995)",27409,1329,20.6,9435,8,8531,1955-2015,0,2001,USA
+11,Elvin Hayes,PF/C,"San Diego/Houston Rockets (1968–1972, 1981–1984)
+Baltimore/Capital/Washington Bullets (1972–1981)",27313,1303,21,10976,5,5356,1945,0,1990,USA
+12,Hakeem Olajuwon,C,"Houston Rockets (1984–2001)
+Toronto Raptors (2001–2002)",26946,1238,21.8,10749,25,5423,1963,0,2008,USA
+13,Oscar Robertson,PG,"Cincinnati Royals (1960–1970)
+Milwaukee Bucks (1970–1974)",26710,1040,25.7,9508,0,7694,1938,0,1980,USA
+14,Kevin Durant,SF/PF,"Seattle SuperSonics/Oklahoma City Thunder (2007–2016)
+Golden State Warriors (2016–2019)
+Brooklyn Nets (2019–present)",26684,978,27.3,9126,1841,6591,1988,1,,USA
+15,Dominique Wilkins,SF,"Atlanta Hawks (1982–1994)
+Los Angeles Clippers (1994)
+Boston Celtics (1994–1995)
+San Antonio Spurs (1996–1997)
+Orlando Magic (1999)",26668,1074,24.8,9963,711,6031,1960,0,2006,USA
+16,Tim Duncan,PF/C,San Antonio Spurs (1997–2016),26496,1392,19,10285,30,5896,1976,0,2020,USA
+17,Paul Pierce,SF/SG,"Boston Celtics (1999–2013)
+Brooklyn Nets (2013–2014)
+Washington Wizards (2014–2015)
+Los Angeles Clippers (2015–2017)",26397,1343,19.7,8668,2143,6918,1977,0,2021,USA
+18,John Havlicek,SF/SG,Boston Celtics (1962–1978),26395,1270,20.8,10513,0,5369,1940-2019,0,1984,USA
+19,Kevin Garnett,PF/C,"Minnesota Timberwolves (1995–2007, 2015–2016)
+Boston Celtics (2007–2013)
+Brooklyn Nets (2013–2015)",26071,1462,17.8,10505,174,4887,1976,0,2020,USA
+20,Vince Carter,SG/SF,"Toronto Raptors (1999–2004)
+New Jersey Nets (2004–2009)
+Orlando Magic (2009–2010)
+Phoenix Suns (2010–2011)
+Dallas Mavericks (2011–2014)
+Memphis Grizzlies (2014–2017)
+Sacramento Kings (2017–2018)
+Atlanta Hawks (2018–2020)",25728,1541,16.7,9293,2290,4852,1977,0,,USA
+21,Alex English,SF,"Milwaukee Bucks (1976–1978)
+Indiana Pacers (1978–1980)
+Denver Nuggets (1980–1990)
+Dallas Mavericks (1990–1991)",25613,1193,21.5,10659,18,4277,1954,0,1997,USA
+22,Reggie Miller,SG,Indiana Pacers (1987–2005),25279,1389,18.2,8241,2560,6237,1965,0,2012,USA
+23,Jerry West,PG/SG,Los Angeles Lakers (1960–1974),25192,932,27,9016,0,7160,1938,0,1980,USA
+24,Patrick Ewing,C,"New York Knicks (1985–2000)
+Seattle SuperSonics (2000–2001)
+Orlando Magic (2001–2002)",24815,1183,21,9702,19,5392,1962,0,2008,USA
+25,Ray Allen,SG,"Milwaukee Bucks (1996–2003)
+Seattle SuperSonics (2003–2007)
+Boston Celtics (2007–2012)
+Miami Heat (2012–2014)",24505,1300,18.9,8567,2973,4398,1975,0,2018,USA
+26,Allen Iverson,SG/PG,"Philadelphia 76ers (1996–2006, 2009–2010)
+Denver Nuggets (2006–2008)
+Detroit Pistons (2008–2009)
+Memphis Grizzlies (2009)",24368,914,26.7,8467,1059,6375,1975,0,2016,USA
+27,James Harden,SG/PG,"Oklahoma City Thunder (2009–2012)
+Houston Rockets (2012–2021)
+Brooklyn Nets (2021–2022)
+Philadelphia 76ers (2022–present)",24005,966,24.8,7080,2659,7186,1989,1,,USA
+28,Russell Westbrook,PG,"Oklahoma City Thunder (2008–2019)
+Houston Rockets (2019–2020)
+Washington Wizards (2020–2021)
+Los Angeles Lakers (2021–present)",23845,1058,22.5,8524,1184,5613,1988,1,,USA
+29,Charles Barkley,PF,"Philadelphia 76ers (1984–1992)
+Phoenix Suns (1992–1996)
+Houston Rockets (1996–2000)",23757,1073,22.1,8435,538,6349,1963,0,2006,USA
+30,Robert Parish,C,"Golden State Warriors (1976–1980)
+Boston Celtics (1980–1994)
+Charlotte Hornets (1994–1996)
+Chicago Bulls (1996–1997)",23334,1611,14.5,9614,0,4106,1953,0,2003,USA
+31,Adrian Dantley,SF,"Buffalo Braves (1976–1977)
+Indiana Pacers (1977)
+Los Angeles Lakers (1977–1979)
+Utah Jazz (1979–1986)
+Detroit Pistons (1986–1989)
+Dallas Mavericks (1989–1990)
+Milwaukee Bucks (1991)",23177,955,24.3,8169,7,6832,1956,0,2008,USA
+32,Dwyane Wade,SG,"Miami Heat (2003–2016, 2018–2019)
+Chicago Bulls (2016–2017)
+Cleveland Cavaliers (2017–2018)",23165,1054,22,8454,549,5708,1982,0,,USA
+33,Elgin Baylor,SF,Minneapolis/Los Angeles Lakers (1958–1971),23149,846,27.4,8693,0,5763,1934-2021,0,1977,USA
+34,Clyde Drexler,SG,"Portland Trail Blazers (1983–1995)
+Houston Rockets (1995–1998)",22195,1086,20.4,8335,827,4698,1962,0,2004,USA
+35,Gary Payton,PG,"Seattle SuperSonics (1990–2003)
+Milwaukee Bucks (2003)
+Los Angeles Lakers (2003–2004)
+Boston Celtics (2004–2005)
+Miami Heat (2005–2007)",21813,1335,16.3,8708,1132,3265,1968,0,2013,USA
+36,Larry Bird,SF/PF,Boston Celtics (1979–1992),21791,897,24.3,8591,649,3960,1956,0,1998,USA
+37,Hal Greer,SG/PG,Syracuse Nationals/Philadelphia 76ers (1958–1973),21586,1122,19.2,8504,0,4578,1936-2018,0,1982,USA
+38,Chris Paul,PG,"New Orleans Hornets (2005–2011)
+Los Angeles Clippers (2011–2017)
+Houston Rockets (2017–2019)
+Oklahoma City Thunder (2019–2020)
+Phoenix Suns (2020–present)",21276,1181,18,7512,1587,4665,1985,1,,USA
+39,Walt Bellamy,C,"Chicago Packers/Zephyrs/Baltimore Bullets (1961–1965)
+New York Knicks (1965–1968)
+Detroit Pistons (1968–1970)
+Atlanta Hawks (1970–1974)
+New Orleans Jazz (1974)",20941,1043,20.1,7914,0,5113,1939-2013,0,1993,USA
+40,DeMar DeRozan,SG/SF,"Toronto Raptors (2009–2018)
+San Antonio Spurs (2018–2021)
+Chicago Bulls (2021–present)",20925,997,21,7508,426,5483,1989,1,,USA
+41,Pau Gasol,C/PF,"Memphis Grizzlies (2001–2008)
+Los Angeles Lakers (2008–2014)
+Chicago Bulls (2014–2016)
+San Antonio Spurs (2016–2019)
+Milwaukee Bucks (2019)",20894,1226,17,7980,179,4755,1980,0,,ESP
+42,Bob Pettit,PF/C,Milwaukee/St. Louis Hawks (1954–1965),20880,792,26.4,7349,0,6182,1932,0,1971,USA
+43,Stephen Curry,PG,Golden State Warriors (2009–present),20843,852,24.5,7137,3248,3321,1988,1,,USA
+44,David Robinson,C,San Antonio Spurs (1989–2003),20790,987,21.1,7365,25,6035,1965,0,2009,USA
+45,George Gervin,SG/SF,"San Antonio Spurs (1976–1985)
+Chicago Bulls (1985–1986)",20708,791,26.2,8045,77,4541,1952,0,1996,USA
+46,LaMarcus Aldridge,PF/C,"Portland Trail Blazers (2006–2015)
+San Antonio Spurs (2015–2021)
+Brooklyn Nets (2021–2022)",20558,1076,19.1,8311,227,3709,1985,1,,USA
+47,Mitch Richmond,SG,"Golden State Warriors (1988–1991)
+Sacramento Kings (1991–1998)
+Washington Wizards (1999–2001)
+Los Angeles Lakers (2001–2002)",20497,976,21,7305,1326,4561,1965,0,2014,USA
+48,Joe Johnson,SG/SF,"Boston Celtics (2001–2002, 2021)
+Phoenix Suns (2002–2005)
+Atlanta Hawks (2005–2012)
+Brooklyn Nets (2012–2016)
+Miami Heat (2016)
+Utah Jazz (2016–2018)
+Houston Rockets (2018)",20407,1277,16,7823,1978,2783,1981,0,,USA
+49,Tom Chambers,PF,"San Diego Clippers (1981–1983)
+Seattle SuperSonics (1983–1988)
+Phoenix Suns (1988–1993)
+Utah Jazz (1993–1995)
+Charlotte Hornets (1997)
+Philadelphia 76ers (1997)",20049,1107,18.1,7378,227,5066,1959,0,,USA
+50,Antawn Jamison,PF/SF,"Golden State Warriors (1999–2003)
+Dallas Mavericks (2003–2004)
+Washington Wizards (2004–2010)
+Cleveland Cavaliers (2010–2012)
+Los Angeles Lakers (2012–2013)
+Los Angeles Clippers (2013–2014)",20042,1083,18.5,7679,1163,3521,1976,0,,USA
